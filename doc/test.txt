@@ -1,8 +1,11 @@
 this is dev 1 file 
 This is dev2 update
+<<<<<<< HEAD
+============
+the soft-A change fo marge
+=======
 This is soft-A branch udpate 
 this is soft-B update
-====================
 this change for soft-B
 
 
